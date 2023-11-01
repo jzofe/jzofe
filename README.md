@@ -9,7 +9,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptkidsensei&repo=AUDO-SCANNER&theme=dark&bg_color=161c1c&hide_border=true&icon_color=00c6ff&border_radius=16&show_owner=true">
 </a>
 
-<img src="https://github-widgetbox.vercel.app/api/skills?languages=linux,bash,python,c&amp;theme=darkmode" alt="scriptkidsensei Skills WidgetBox">
+<img src="https://github-widgetbox.vercel.app/api/skills?languages=linux,bash,python,c,csharp&amp;theme=darkmode" alt="scriptkidsensei Skills WidgetBox">
 <div style="display:flex;">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=scriptkidsensei&show_icons=true&theme=dark&bg_color=161c1c&hide_border=true&icon_color=00c6ff&title_color=00c6ff&border_radius=16" alt="scriptkidsensei GitHub Stats">
   
