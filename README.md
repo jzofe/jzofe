@@ -12,6 +12,7 @@
 <img src="https://github-widgetbox.vercel.app/api/skills?languages=linux,bash,python,c&amp;theme=darkmode" alt="scriptkidsensei Skills WidgetBox">
 <div style="display:flex;">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=scriptkidsensei&show_icons=true&theme=dark&bg_color=161c1c&hide_border=true&icon_color=00c6ff&title_color=00c6ff&border_radius=16" alt="scriptkidsensei GitHub Stats">
+  
 <span style="display:inline-block;width:2%"></span>
 <img width="49%" src="https://streak-stats.demolab.com/?user=scriptkidsensei&theme=dark&background=161c1c&hide_border=true&border_radius=16&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff" alt="scriptkidsensei GitHub Streak">
 </div>
