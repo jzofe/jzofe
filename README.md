@@ -13,7 +13,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptkidsensei&repo=GeoHostCheck&theme=dark&bg_color=161c1c&hide_border=true&icon_color=00c6ff&border_radius=16&show_owner=true">
 </a>
 
-![Add_a_heading7](https://github.com/scriptkidsensei/scriptkidsensei/assets/55909183/a04eb5c5-aa8a-48cc-a0b3-470edc9e7b05)
+![Add_a_heading9](https://github.com/scriptkidsensei/scriptkidsensei/assets/55909183/ce88684c-ce97-40bf-ab87-5c4871779934)
 
 
   
