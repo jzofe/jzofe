@@ -13,10 +13,9 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptkidsensei&repo=GeoHostCheck&theme=dark&bg_color=161c1c&hide_border=true&icon_color=00c6ff&border_radius=16&show_owner=true">
 </a>
 
+![Add_a_heading7](https://github.com/scriptkidsensei/scriptkidsensei/assets/55909183/a04eb5c5-aa8a-48cc-a0b3-470edc9e7b05)
 
-<img src="https://github-widgetbox.vercel.app/api/skills?languages=linux,bash,python,c,csharp&amp;theme=darkmode" alt="scriptkidsensei Skills WidgetBox">
-<div style="display:flex;">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=scriptkidsensei&show_icons=true&theme=dark&bg_color=161c1c&hide_border=true&icon_color=00c6ff&title_color=00c6ff&border_radius=16" alt="scriptkidsensei GitHub Stats">
+
   
 <span style="display:inline-block;width:2%"></span>
 <img width="39%" src="https://streak-stats.demolab.com/?user=scriptkidsensei&theme=dark&background=161c1c&hide_border=true&border_radius=16&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff" alt="scriptkidsensei GitHub Streak">
